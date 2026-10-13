@@ -1,0 +1,2658 @@
+{
+  "nouns": {
+    "id": "nouns",
+    "kind": "flashcard",
+    "title": "Nouns",
+    "title_cn": "名词",
+    "css_class": "nouns",
+    "level": "pre-a1",
+    "cards": [
+      {
+        "id": "afternoon_nouns_n",
+        "word": "afternoon",
+        "pos": "n",
+        "ipa": "/ˌɑːftəˈnuːn/",
+        "meaning_cn": "下午",
+        "example_en": "I play in the afternoon.",
+        "example_cn": "我下午玩耍。"
+      },
+      {
+        "id": "alex_nouns_n",
+        "word": "Alex",
+        "pos": "n",
+        "ipa": "/ˈeɪlɪks/",
+        "meaning_cn": "亚历克斯",
+        "example_en": "Alex is my friend.",
+        "example_cn": "亚历克斯是我的朋友。"
+      },
+      {
+        "id": "alice_nouns_n",
+        "word": "Alice",
+        "pos": "n",
+        "ipa": "/ˈælɪs/",
+        "meaning_cn": "爱丽丝",
+        "example_en": "Alice likes cats.",
+        "example_cn": "爱丽丝喜欢猫。"
+      },
+      {
+        "id": "alien_nouns_n",
+        "word": "alien",
+        "pos": "n",
+        "ipa": "/ˈeɪliən/",
+        "meaning_cn": "外星人",
+        "example_en": "The alien is green.",
+        "example_cn": "这个外星人是绿色的。"
+      },
+      {
+        "id": "alphabet_nouns_n",
+        "word": "alphabet",
+        "pos": "n",
+        "ipa": "/ˈælfəbet/",
+        "meaning_cn": "字母表",
+        "example_en": "I know the alphabet.",
+        "example_cn": "我认识字母表。"
+      },
+      {
+        "id": "animal_nouns_n",
+        "word": "animal",
+        "pos": "n",
+        "ipa": "/ˈænɪml/",
+        "meaning_cn": "动物",
+        "example_en": "It is a big animal.",
+        "example_cn": "它是一只大动物。"
+      },
+      {
+        "id": "ann_anna_nouns_n",
+        "word": "Ann/Anna",
+        "pos": "n",
+        "ipa": "/æn/ /ˈænə/",
+        "meaning_cn": "安/安娜",
+        "example_en": "Ann is a girl.",
+        "example_cn": "安是一个女孩。"
+      },
+      {
+        "id": "answer_nouns_n",
+        "word": "answer",
+        "pos": "n",
+        "ipa": "/ˈɑːnsə(r)/",
+        "meaning_cn": "答案",
+        "example_en": "I know the answer.",
+        "example_cn": "我知道答案。"
+      },
+      {
+        "id": "apartment_nouns_n",
+        "word": "apartment",
+        "pos": "n",
+        "ipa": "/əˈpɑːtment/",
+        "meaning_cn": "公寓",
+        "example_en": "This is my apartment.",
+        "example_cn": "这是我的公寓。"
+      },
+      {
+        "id": "apple_nouns_n",
+        "word": "apple",
+        "pos": "n",
+        "ipa": "/ˈæpl/",
+        "meaning_cn": "苹果",
+        "example_en": "I eat a red apple.",
+        "example_cn": "我吃一个红苹果。"
+      },
+      {
+        "id": "arm_nouns_n",
+        "word": "arm",
+        "pos": "n",
+        "ipa": "/ɑːm/",
+        "meaning_cn": "手臂",
+        "example_en": "I have one arm.",
+        "example_cn": "我有一只手臂。"
+      },
+      {
+        "id": "armchair_nouns_n",
+        "word": "armchair",
+        "pos": "n",
+        "ipa": "/ˈɑːmtʃeə(r)/",
+        "meaning_cn": "扶手椅",
+        "example_en": "The armchair is soft.",
+        "example_cn": "这把扶手椅很软。"
+      },
+      {
+        "id": "baby_nouns_n",
+        "word": "baby",
+        "pos": "n",
+        "ipa": "/ˈbeɪbi/",
+        "meaning_cn": "婴儿",
+        "example_en": "The baby is cute.",
+        "example_cn": "这个婴儿很可爱。"
+      },
+      {
+        "id": "badminton_nouns_n",
+        "word": "badminton",
+        "pos": "n",
+        "ipa": "/ˈbædmɪntən/",
+        "meaning_cn": "羽毛球",
+        "example_en": "I play badminton.",
+        "example_cn": "我打羽毛球。"
+      },
+      {
+        "id": "bag_nouns_n",
+        "word": "bag",
+        "pos": "n",
+        "ipa": "/bæɡ/",
+        "meaning_cn": "包",
+        "example_en": "I have a blue bag.",
+        "example_cn": "我有一个蓝色的包。"
+      },
+      {
+        "id": "ball_nouns_n",
+        "word": "ball",
+        "pos": "n",
+        "ipa": "/bɔːl/",
+        "meaning_cn": "球",
+        "example_en": "I kick the ball.",
+        "example_cn": "我踢球。"
+      },
+      {
+        "id": "balloon_nouns_n",
+        "word": "balloon",
+        "pos": "n",
+        "ipa": "/bəˈluːn/",
+        "meaning_cn": "气球",
+        "example_en": "I have a red balloon.",
+        "example_cn": "我有一个红气球。"
+      },
+      {
+        "id": "banana_nouns_n",
+        "word": "banana",
+        "pos": "n",
+        "ipa": "/bəˈnɑːnə/",
+        "meaning_cn": "香蕉",
+        "example_en": "I eat a banana.",
+        "example_cn": "我吃一根香蕉。"
+      },
+      {
+        "id": "baseball_nouns_n",
+        "word": "baseball",
+        "pos": "n",
+        "ipa": "/ˈbeɪsbɔːl/",
+        "meaning_cn": "棒球",
+        "example_en": "I play baseball.",
+        "example_cn": "我打棒球。"
+      },
+      {
+        "id": "baseball_cap_nouns_n",
+        "word": "baseball cap",
+        "pos": "n",
+        "ipa": "/ˈbeɪsbɔːl kæp/",
+        "meaning_cn": "棒球帽",
+        "example_en": "He wears a baseball cap.",
+        "example_cn": "他戴着棒球帽。"
+      },
+      {
+        "id": "basketball_nouns_n",
+        "word": "basketball",
+        "pos": "n",
+        "ipa": "/ˈbɑːskɪtbɔːl/",
+        "meaning_cn": "篮球",
+        "example_en": "I like basketball.",
+        "example_cn": "我喜欢篮球。"
+      },
+      {
+        "id": "bat_nouns_n",
+        "word": "bat",
+        "pos": "n",
+        "ipa": "/bæt/",
+        "meaning_cn": "球棒",
+        "example_en": "I have a blue bat.",
+        "example_cn": "我有一根蓝色的球棒。"
+      },
+      {
+        "id": "bath_nouns_n",
+        "word": "bath",
+        "pos": "n",
+        "ipa": "/bɑːθ/",
+        "meaning_cn": "洗澡",
+        "example_en": "I have a bath.",
+        "example_cn": "我洗个澡。"
+      },
+      {
+        "id": "bathroom_nouns_n",
+        "word": "bathroom",
+        "pos": "n",
+        "ipa": "/ˈbɑːθruːm/",
+        "meaning_cn": "浴室",
+        "example_en": "The bathroom is clean.",
+        "example_cn": "浴室很干净。"
+      },
+      {
+        "id": "beach_nouns_n",
+        "word": "beach",
+        "pos": "n",
+        "ipa": "/biːtʃ/",
+        "meaning_cn": "海滩",
+        "example_en": "I play on the beach.",
+        "example_cn": "我在海滩上玩。"
+      },
+      {
+        "id": "bean_nouns_n",
+        "word": "bean",
+        "pos": "n",
+        "ipa": "/biːn/",
+        "meaning_cn": "豆子",
+        "example_en": "I eat a green bean.",
+        "example_cn": "我吃绿豆。"
+      },
+      {
+        "id": "bear_nouns_n",
+        "word": "bear",
+        "pos": "n",
+        "ipa": "/beə(r)/",
+        "meaning_cn": "熊",
+        "example_en": "The bear is brown.",
+        "example_cn": "这只熊是棕色的。"
+      },
+      {
+        "id": "bed_nouns_n",
+        "word": "bed",
+        "pos": "n",
+        "ipa": "/bed/",
+        "meaning_cn": "床",
+        "example_en": "I sleep in my bed.",
+        "example_cn": "我在我的床上睡觉。"
+      },
+      {
+        "id": "bedroom_nouns_n",
+        "word": "bedroom",
+        "pos": "n",
+        "ipa": "/ˈbedruːm/",
+        "meaning_cn": "卧室",
+        "example_en": "My bedroom is blue.",
+        "example_cn": "我的卧室是蓝色的。"
+      },
+      {
+        "id": "bee_nouns_n",
+        "word": "bee",
+        "pos": "n",
+        "ipa": "/biː/",
+        "meaning_cn": "蜜蜂",
+        "example_en": "The bee is yellow.",
+        "example_cn": "这只蜜蜂是黄色的。"
+      },
+      {
+        "id": "ben_nouns_n",
+        "word": "Ben",
+        "pos": "n",
+        "ipa": "/ben/",
+        "meaning_cn": "本",
+        "example_en": "Ben is a boy.",
+        "example_cn": "本是一个男孩。"
+      },
+      {
+        "id": "bike_nouns_n",
+        "word": "bike",
+        "pos": "n",
+        "ipa": "/baɪk/",
+        "meaning_cn": "自行车",
+        "example_en": "I ride a bike.",
+        "example_cn": "我骑自行车。"
+      },
+      {
+        "id": "bill_nouns_n",
+        "word": "Bill",
+        "pos": "n",
+        "ipa": "/bɪl/",
+        "meaning_cn": "比尔",
+        "example_en": "Bill has a dog.",
+        "example_cn": "比尔有一只狗。"
+      },
+      {
+        "id": "bird_nouns_n",
+        "word": "bird",
+        "pos": "n",
+        "ipa": "/bɜːd/",
+        "meaning_cn": "鸟",
+        "example_en": "I see a bird.",
+        "example_cn": "我看见一只鸟。"
+      },
+      {
+        "id": "birthday_nouns_n",
+        "word": "birthday",
+        "pos": "n",
+        "ipa": "/ˈbɜːθdeɪ/",
+        "meaning_cn": "生日",
+        "example_en": "Today is my birthday.",
+        "example_cn": "今天是我的生日。"
+      },
+      {
+        "id": "board_nouns_n",
+        "word": "board",
+        "pos": "n",
+        "ipa": "/bɔːd/",
+        "meaning_cn": "板",
+        "example_en": "I draw on the board.",
+        "example_cn": "我在板上画画。"
+      },
+      {
+        "id": "board_game_nouns_n",
+        "word": "board game",
+        "pos": "n",
+        "ipa": "/ˈbɔːd ɡeɪm/",
+        "meaning_cn": "桌游",
+        "example_en": "I play a board game.",
+        "example_cn": "我玩桌游。"
+      },
+      {
+        "id": "boat_nouns_n",
+        "word": "boat",
+        "pos": "n",
+        "ipa": "/bəʊt/",
+        "meaning_cn": "船",
+        "example_en": "I see a blue boat.",
+        "example_cn": "我看见一艘蓝色的船。"
+      },
+      {
+        "id": "body_nouns_n",
+        "word": "body",
+        "pos": "n",
+        "ipa": "/ˈbɒdi/",
+        "meaning_cn": "身体",
+        "example_en": "I move my body.",
+        "example_cn": "我移动我的身体。"
+      },
+      {
+        "id": "book_nouns_n",
+        "word": "book",
+        "pos": "n",
+        "ipa": "/bʊk/",
+        "meaning_cn": "书",
+        "example_en": "I read a book.",
+        "example_cn": "我读书。"
+      },
+      {
+        "id": "bookcase_nouns_n",
+        "word": "bookcase",
+        "pos": "n",
+        "ipa": "/ˈbʊkkeɪs/",
+        "meaning_cn": "书架",
+        "example_en": "The bookcase is big.",
+        "example_cn": "这个书架很大。"
+      },
+      {
+        "id": "bookshop_nouns_n",
+        "word": "bookshop",
+        "pos": "n",
+        "ipa": "/ˈbʊkʃɒp/",
+        "meaning_cn": "书店",
+        "example_en": "I go to the bookshop.",
+        "example_cn": "我去书店。"
+      },
+      {
+        "id": "boots_nouns_n",
+        "word": "boots",
+        "pos": "n",
+        "ipa": "/buːts/",
+        "meaning_cn": "靴子",
+        "example_en": "I wear my boots.",
+        "example_cn": "我穿我的靴子。"
+      },
+      {
+        "id": "box_nouns_n",
+        "word": "box",
+        "pos": "n",
+        "ipa": "/bɒks/",
+        "meaning_cn": "盒子",
+        "example_en": "I have a big box.",
+        "example_cn": "我有一个大盒子。"
+      },
+      {
+        "id": "boy_nouns_n",
+        "word": "boy",
+        "pos": "n",
+        "ipa": "/bɔɪ/",
+        "meaning_cn": "男孩",
+        "example_en": "He is a good boy.",
+        "example_cn": "他是个好男孩。"
+      },
+      {
+        "id": "bread_nouns_n",
+        "word": "bread",
+        "pos": "n",
+        "ipa": "/bred/",
+        "meaning_cn": "面包",
+        "example_en": "I eat bread.",
+        "example_cn": "我吃面包。"
+      },
+      {
+        "id": "breakfast_nouns_n",
+        "word": "breakfast",
+        "pos": "n",
+        "ipa": "/ˈbrekfəst/",
+        "meaning_cn": "早餐",
+        "example_en": "I have milk for breakfast.",
+        "example_cn": "我早餐喝牛奶。"
+      },
+      {
+        "id": "brother_nouns_n",
+        "word": "brother",
+        "pos": "n",
+        "ipa": "/ˈbrʌðə(r)/",
+        "meaning_cn": "兄弟",
+        "example_en": "My brother is tall.",
+        "example_cn": "我的兄弟很高。"
+      },
+      {
+        "id": "burger_nouns_n",
+        "word": "burger",
+        "pos": "n",
+        "ipa": "/ˈbɜːɡə(r)/",
+        "meaning_cn": "汉堡",
+        "example_en": "I like a burger.",
+        "example_cn": "我喜欢汉堡。"
+      },
+      {
+        "id": "bus_nouns_n",
+        "word": "bus",
+        "pos": "n",
+        "ipa": "/bʌs/",
+        "meaning_cn": "公交车",
+        "example_en": "I go by bus.",
+        "example_cn": "我坐公交车去。"
+      },
+      {
+        "id": "cake_nouns_n",
+        "word": "cake",
+        "pos": "n",
+        "ipa": "/keɪk/",
+        "meaning_cn": "蛋糕",
+        "example_en": "I eat a cake.",
+        "example_cn": "我吃蛋糕。"
+      },
+      {
+        "id": "camera_nouns_n",
+        "word": "camera",
+        "pos": "n",
+        "ipa": "/ˈkæmərə/",
+        "meaning_cn": "相机",
+        "example_en": "I have a camera.",
+        "example_cn": "我有一台相机。"
+      },
+      {
+        "id": "candy_nouns_n",
+        "word": "candy",
+        "pos": "n",
+        "ipa": "/ˈkændi/",
+        "meaning_cn": "糖果",
+        "example_en": "I like candy.",
+        "example_cn": "我喜欢糖果。"
+      },
+      {
+        "id": "car_nouns_n",
+        "word": "car",
+        "pos": "n",
+        "ipa": "/kɑː(r)/",
+        "meaning_cn": "汽车",
+        "example_en": "I see a red car.",
+        "example_cn": "我看见一辆红车。"
+      },
+      {
+        "id": "carrot_nouns_n",
+        "word": "carrot",
+        "pos": "n",
+        "ipa": "/ˈkærət/",
+        "meaning_cn": "胡萝卜",
+        "example_en": "I eat a carrot.",
+        "example_cn": "我吃胡萝卜。"
+      },
+      {
+        "id": "cat_nouns_n",
+        "word": "cat",
+        "pos": "n",
+        "ipa": "/kæt/",
+        "meaning_cn": "猫",
+        "example_en": "I have a cat.",
+        "example_cn": "我有一只猫。"
+      },
+      {
+        "id": "chair_nouns_n",
+        "word": "chair",
+        "pos": "n",
+        "ipa": "/tʃeə(r)/",
+        "meaning_cn": "椅子",
+        "example_en": "I sit on the chair.",
+        "example_cn": "我坐在椅子上。"
+      },
+      {
+        "id": "chicken_nouns_n",
+        "word": "chicken",
+        "pos": "n",
+        "ipa": "/ˈtʃɪkɪn/",
+        "meaning_cn": "鸡/鸡肉",
+        "example_en": "I eat chicken.",
+        "example_cn": "我吃鸡肉。"
+      },
+      {
+        "id": "child_children_nouns_n",
+        "word": "child/children",
+        "pos": "n",
+        "ipa": "/tʃaɪld/ /ˈtʃɪldrən/",
+        "meaning_cn": "孩子/孩子们",
+        "example_en": "The child is happy.",
+        "example_cn": "这个孩子很开心。"
+      },
+      {
+        "id": "chips_nouns_n",
+        "word": "chips",
+        "pos": "n",
+        "ipa": "/tʃɪps/",
+        "meaning_cn": "薯条",
+        "example_en": "I eat chips.",
+        "example_cn": "我吃薯条。"
+      },
+      {
+        "id": "chocolate_nouns_n",
+        "word": "chocolate",
+        "pos": "n",
+        "ipa": "/ˈtʃɒklət/",
+        "meaning_cn": "巧克力",
+        "example_en": "I like chocolate.",
+        "example_cn": "我喜欢巧克力。"
+      },
+      {
+        "id": "class_nouns_n",
+        "word": "class",
+        "pos": "n",
+        "ipa": "/klɑːs/",
+        "meaning_cn": "班级/课",
+        "example_en": "I am in class.",
+        "example_cn": "我在上课。"
+      },
+      {
+        "id": "classmate_nouns_n",
+        "word": "classmate",
+        "pos": "n",
+        "ipa": "/ˈklɑːsmeɪt/",
+        "meaning_cn": "同学",
+        "example_en": "I play with my classmate.",
+        "example_cn": "我和同学玩。"
+      },
+      {
+        "id": "classroom_nouns_n",
+        "word": "classroom",
+        "pos": "n",
+        "ipa": "/ˈklɑːsruːm/",
+        "meaning_cn": "教室",
+        "example_en": "The classroom is big.",
+        "example_cn": "教室很大。"
+      },
+      {
+        "id": "clock_nouns_n",
+        "word": "clock",
+        "pos": "n",
+        "ipa": "/klɒk/",
+        "meaning_cn": "时钟",
+        "example_en": "The clock is on the wall.",
+        "example_cn": "时钟在墙上。"
+      },
+      {
+        "id": "clothes_nouns_n",
+        "word": "clothes",
+        "pos": "n",
+        "ipa": "/kləʊðz/",
+        "meaning_cn": "衣服",
+        "example_en": "I wash my clothes.",
+        "example_cn": "我洗我的衣服。"
+      },
+      {
+        "id": "coconut_nouns_n",
+        "word": "coconut",
+        "pos": "n",
+        "ipa": "/ˈkəʊkənʌt/",
+        "meaning_cn": "椰子",
+        "example_en": "I see a coconut.",
+        "example_cn": "我看见一个椰子。"
+      },
+      {
+        "id": "coffee_nouns_n",
+        "word": "coffee",
+        "pos": "n",
+        "ipa": "/ˈkɒfi/",
+        "meaning_cn": "咖啡",
+        "example_en": "I drink coffee.",
+        "example_cn": "我喝咖啡。"
+      },
+      {
+        "id": "cow_nouns_n",
+        "word": "cow",
+        "pos": "n",
+        "ipa": "/kaʊ/",
+        "meaning_cn": "奶牛",
+        "example_en": "The cow is black.",
+        "example_cn": "这头奶牛是黑色的。"
+      },
+      {
+        "id": "crayon_nouns_n",
+        "word": "crayon",
+        "pos": "n",
+        "ipa": "/ˈkreɪən/",
+        "meaning_cn": "蜡笔",
+        "example_en": "I draw with a crayon.",
+        "example_cn": "我用蜡笔画画。"
+      },
+      {
+        "id": "crocodile_nouns_n",
+        "word": "crocodile",
+        "pos": "n",
+        "ipa": "/ˈkrɒkədaɪl/",
+        "meaning_cn": "鳄鱼",
+        "example_en": "The crocodile is green.",
+        "example_cn": "这只鳄鱼是绿色的。"
+      },
+      {
+        "id": "cross_nouns_n",
+        "word": "cross",
+        "pos": "n",
+        "ipa": "/krɒs/",
+        "meaning_cn": "十字",
+        "example_en": "I draw a cross.",
+        "example_cn": "我画一个十字。"
+      },
+      {
+        "id": "cupboard_nouns_n",
+        "word": "cupboard",
+        "pos": "n",
+        "ipa": "/ˈkʌbəd/",
+        "meaning_cn": "碗柜",
+        "example_en": "The cupboard is full.",
+        "example_cn": "碗柜满了。"
+      },
+      {
+        "id": "dad_nouns_n",
+        "word": "dad",
+        "pos": "n",
+        "ipa": "/dæd/",
+        "meaning_cn": "爸爸",
+        "example_en": "My dad is tall.",
+        "example_cn": "我爸爸很高。"
+      },
+      {
+        "id": "day_nouns_n",
+        "word": "day",
+        "pos": "n",
+        "ipa": "/deɪ/",
+        "meaning_cn": "天/日",
+        "example_en": "It is a sunny day.",
+        "example_cn": "这是晴朗的一天。"
+      },
+      {
+        "id": "desk_nouns_n",
+        "word": "desk",
+        "pos": "n",
+        "ipa": "/desk/",
+        "meaning_cn": "书桌",
+        "example_en": "I sit at my desk.",
+        "example_cn": "我坐在书桌前。"
+      },
+      {
+        "id": "dining_room_nouns_n",
+        "word": "dining room",
+        "pos": "n",
+        "ipa": "/ˈdaɪnɪŋ ruːm/",
+        "meaning_cn": "餐厅",
+        "example_en": "We eat in the dining room.",
+        "example_cn": "我们在餐厅吃饭。"
+      },
+      {
+        "id": "dinner_nouns_n",
+        "word": "dinner",
+        "pos": "n",
+        "ipa": "/ˈdɪnə(r)/",
+        "meaning_cn": "晚餐",
+        "example_en": "I have dinner.",
+        "example_cn": "我吃晚餐。"
+      },
+      {
+        "id": "dog_nouns_n",
+        "word": "dog",
+        "pos": "n",
+        "ipa": "/dɒɡ/",
+        "meaning_cn": "狗",
+        "example_en": "I have a dog.",
+        "example_cn": "我有一只狗。"
+      },
+      {
+        "id": "doll_nouns_n",
+        "word": "doll",
+        "pos": "n",
+        "ipa": "/dɒl/",
+        "meaning_cn": "洋娃娃",
+        "example_en": "I have a doll.",
+        "example_cn": "我有一个洋娃娃。"
+      },
+      {
+        "id": "donkey_nouns_n",
+        "word": "donkey",
+        "pos": "n",
+        "ipa": "/ˈdɒŋki/",
+        "meaning_cn": "驴",
+        "example_en": "I see a donkey.",
+        "example_cn": "我看见一头驴。"
+      },
+      {
+        "id": "door_nouns_n",
+        "word": "door",
+        "pos": "n",
+        "ipa": "/dɔː(r)/",
+        "meaning_cn": "门",
+        "example_en": "I open the door.",
+        "example_cn": "我打开门。"
+      },
+      {
+        "id": "drawing_nouns_n",
+        "word": "drawing",
+        "pos": "n",
+        "ipa": "/ˈdrɔːɪŋ/",
+        "meaning_cn": "图画",
+        "example_en": "I make a drawing.",
+        "example_cn": "我画一幅画。"
+      },
+      {
+        "id": "dress_nouns_n",
+        "word": "dress",
+        "pos": "n",
+        "ipa": "/dres/",
+        "meaning_cn": "连衣裙",
+        "example_en": "I wear a red dress.",
+        "example_cn": "我穿一条红连衣裙。"
+      },
+      {
+        "id": "drink_nouns_n",
+        "word": "drink",
+        "pos": "n",
+        "ipa": "/drɪŋk/",
+        "meaning_cn": "饮料",
+        "example_en": "I have a drink.",
+        "example_cn": "我喝饮料。"
+      },
+      {
+        "id": "duck_nouns_n",
+        "word": "duck",
+        "pos": "n",
+        "ipa": "/dʌk/",
+        "meaning_cn": "鸭子",
+        "example_en": "I see a yellow duck.",
+        "example_cn": "我看见一只黄鸭子。"
+      },
+      {
+        "id": "ear_nouns_n",
+        "word": "ear",
+        "pos": "n",
+        "ipa": "/ɪə(r)/",
+        "meaning_cn": "耳朵",
+        "example_en": "I have two ears.",
+        "example_cn": "我有两只耳朵。"
+      },
+      {
+        "id": "egg_nouns_n",
+        "word": "egg",
+        "pos": "n",
+        "ipa": "/eɡ/",
+        "meaning_cn": "鸡蛋",
+        "example_en": "I eat an egg.",
+        "example_cn": "我吃一个鸡蛋。"
+      },
+      {
+        "id": "elephant_nouns_n",
+        "word": "elephant",
+        "pos": "n",
+        "ipa": "/ˈelɪfənt/",
+        "meaning_cn": "大象",
+        "example_en": "The elephant is big.",
+        "example_cn": "这头大象很大。"
+      },
+      {
+        "id": "end_nouns_n",
+        "word": "end",
+        "pos": "n",
+        "ipa": "/end/",
+        "meaning_cn": "结尾",
+        "example_en": "It is the end.",
+        "example_cn": "这是结尾。"
+      },
+      {
+        "id": "english_nouns_n",
+        "word": "English",
+        "pos": "n",
+        "ipa": "/ˈɪŋɡlɪʃ/",
+        "meaning_cn": "英语",
+        "example_en": "I speak English.",
+        "example_cn": "我说英语。"
+      },
+      {
+        "id": "eraser_nouns_n",
+        "word": "eraser",
+        "pos": "n",
+        "ipa": "/ɪˈreɪzə(r)/",
+        "meaning_cn": "橡皮",
+        "example_en": "I use an eraser.",
+        "example_cn": "我用橡皮。"
+      },
+      {
+        "id": "eva_nouns_n",
+        "word": "Eva",
+        "pos": "n",
+        "ipa": "/ˈiːvə/",
+        "meaning_cn": "伊娃",
+        "example_en": "Eva is a girl.",
+        "example_cn": "伊娃是个女孩。"
+      },
+      {
+        "id": "evening_nouns_n",
+        "word": "evening",
+        "pos": "n",
+        "ipa": "/ˈiːvnɪŋ/",
+        "meaning_cn": "晚上",
+        "example_en": "I go home in the evening.",
+        "example_cn": "我晚上回家。"
+      },
+      {
+        "id": "example_nouns_n",
+        "word": "example",
+        "pos": "n",
+        "ipa": "/ɪɡˈzɑːmpl/",
+        "meaning_cn": "例子",
+        "example_en": "I draw an example.",
+        "example_cn": "我画一个例子。"
+      },
+      {
+        "id": "eye_nouns_n",
+        "word": "eye",
+        "pos": "n",
+        "ipa": "/aɪ/",
+        "meaning_cn": "眼睛",
+        "example_en": "I have two eyes.",
+        "example_cn": "我有两只眼睛。"
+      },
+      {
+        "id": "face_nouns_n",
+        "word": "face",
+        "pos": "n",
+        "ipa": "/feɪs/",
+        "meaning_cn": "脸",
+        "example_en": "I wash my face.",
+        "example_cn": "我洗脸。"
+      },
+      {
+        "id": "family_nouns_n",
+        "word": "family",
+        "pos": "n",
+        "ipa": "/ˈfæməli/",
+        "meaning_cn": "家庭",
+        "example_en": "I love my family.",
+        "example_cn": "我爱我的家庭。"
+      },
+      {
+        "id": "father_nouns_n",
+        "word": "father",
+        "pos": "n",
+        "ipa": "/ˈfɑːðə(r)/",
+        "meaning_cn": "父亲",
+        "example_en": "My father is tall.",
+        "example_cn": "我父亲很高。"
+      },
+      {
+        "id": "fish_nouns_n",
+        "word": "fish",
+        "pos": "n",
+        "ipa": "/fɪʃ/",
+        "meaning_cn": "鱼",
+        "example_en": "I see a blue fish.",
+        "example_cn": "我看见一条蓝色的鱼。"
+      },
+      {
+        "id": "fishing_nouns_n",
+        "word": "fishing",
+        "pos": "n",
+        "ipa": "/ˈfɪʃɪŋ/",
+        "meaning_cn": "钓鱼",
+        "example_en": "I go fishing.",
+        "example_cn": "我去钓鱼。"
+      },
+      {
+        "id": "flat_nouns_n",
+        "word": "flat",
+        "pos": "n",
+        "ipa": "/flæt/",
+        "meaning_cn": "公寓",
+        "example_en": "I live in a flat.",
+        "example_cn": "我住在公寓里。"
+      },
+      {
+        "id": "floor_nouns_n",
+        "word": "floor",
+        "pos": "n",
+        "ipa": "/flɔː(r)/",
+        "meaning_cn": "地板/楼层",
+        "example_en": "The floor is clean.",
+        "example_cn": "地板很干净。"
+      },
+      {
+        "id": "flower_nouns_n",
+        "word": "flower",
+        "pos": "n",
+        "ipa": "/ˈflaʊə(r)/",
+        "meaning_cn": "花",
+        "example_en": "I smell the flower.",
+        "example_cn": "我闻这朵花。"
+      },
+      {
+        "id": "food_nouns_n",
+        "word": "food",
+        "pos": "n",
+        "ipa": "/fuːd/",
+        "meaning_cn": "食物",
+        "example_en": "I like good food.",
+        "example_cn": "我喜欢好吃的食物。"
+      },
+      {
+        "id": "foot_feet_nouns_n",
+        "word": "foot/feet",
+        "pos": "n",
+        "ipa": "/fʊt/ /fiːt/",
+        "meaning_cn": "脚",
+        "example_en": "I have one foot.",
+        "example_cn": "我有一只脚。"
+      },
+      {
+        "id": "football_nouns_n",
+        "word": "football",
+        "pos": "n",
+        "ipa": "/ˈfʊtbɔːl/",
+        "meaning_cn": "足球",
+        "example_en": "I play football.",
+        "example_cn": "我踢足球。"
+      },
+      {
+        "id": "friend_nouns_n",
+        "word": "friend",
+        "pos": "n",
+        "ipa": "/frend/",
+        "meaning_cn": "朋友",
+        "example_en": "I play with my friend.",
+        "example_cn": "我和朋友玩。"
+      },
+      {
+        "id": "fries_nouns_n",
+        "word": "fries",
+        "pos": "n",
+        "ipa": "/fraɪz/",
+        "meaning_cn": "薯条",
+        "example_en": "I eat fries.",
+        "example_cn": "我吃薯条。"
+      },
+      {
+        "id": "frog_nouns_n",
+        "word": "frog",
+        "pos": "n",
+        "ipa": "/frɒɡ/",
+        "meaning_cn": "青蛙",
+        "example_en": "The frog is green.",
+        "example_cn": "这只青蛙是绿色的。"
+      },
+      {
+        "id": "fruit_nouns_n",
+        "word": "fruit",
+        "pos": "n",
+        "ipa": "/fruːt/",
+        "meaning_cn": "水果",
+        "example_en": "I eat fruit.",
+        "example_cn": "我吃水果。"
+      },
+      {
+        "id": "fun_nouns_n",
+        "word": "fun",
+        "pos": "n",
+        "ipa": "/fʌn/",
+        "meaning_cn": "乐趣",
+        "example_en": "We have fun.",
+        "example_cn": "我们玩得很开心。"
+      },
+      {
+        "id": "game_nouns_n",
+        "word": "game",
+        "pos": "n",
+        "ipa": "/ɡeɪm/",
+        "meaning_cn": "游戏",
+        "example_en": "I play a game.",
+        "example_cn": "我玩游戏。"
+      },
+      {
+        "id": "garden_nouns_n",
+        "word": "garden",
+        "pos": "n",
+        "ipa": "/ˈɡɑːdn/",
+        "meaning_cn": "花园",
+        "example_en": "I play in the garden.",
+        "example_cn": "我在花园里玩。"
+      },
+      {
+        "id": "giraffe_nouns_n",
+        "word": "giraffe",
+        "pos": "n",
+        "ipa": "/dʒəˈrɑːf/",
+        "meaning_cn": "长颈鹿",
+        "example_en": "The giraffe is tall.",
+        "example_cn": "这只长颈鹿很高。"
+      },
+      {
+        "id": "girl_nouns_n",
+        "word": "girl",
+        "pos": "n",
+        "ipa": "/ɡɜːl/",
+        "meaning_cn": "女孩",
+        "example_en": "She is a good girl.",
+        "example_cn": "她是个好女孩。"
+      },
+      {
+        "id": "glasses_nouns_n",
+        "word": "glasses",
+        "pos": "n",
+        "ipa": "/ˈɡlɑːsɪz/",
+        "meaning_cn": "眼镜",
+        "example_en": "I wear glasses.",
+        "example_cn": "我戴眼镜。"
+      },
+      {
+        "id": "goat_nouns_n",
+        "word": "goat",
+        "pos": "n",
+        "ipa": "/ɡəʊt/",
+        "meaning_cn": "山羊",
+        "example_en": "I see a goat.",
+        "example_cn": "我看见一只山羊。"
+      },
+      {
+        "id": "grace_nouns_n",
+        "word": "Grace",
+        "pos": "n",
+        "ipa": "/ɡreɪs/",
+        "meaning_cn": "格蕾丝",
+        "example_en": "Grace has a cat.",
+        "example_cn": "格蕾丝有一只猫。"
+      },
+      {
+        "id": "grandfather_nouns_n",
+        "word": "grandfather",
+        "pos": "n",
+        "ipa": "/ˈɡrænfɑːðə(r)/",
+        "meaning_cn": "祖父",
+        "example_en": "My grandfather is old.",
+        "example_cn": "我祖父年纪大了。"
+      },
+      {
+        "id": "grandma_nouns_n",
+        "word": "grandma",
+        "pos": "n",
+        "ipa": "/ˈɡrænmɑː/",
+        "meaning_cn": "奶奶/外婆",
+        "example_en": "Grandma is here.",
+        "example_cn": "奶奶在这里。"
+      },
+      {
+        "id": "grandmother_nouns_n",
+        "word": "grandmother",
+        "pos": "n",
+        "ipa": "/ˈɡrænmʌðə(r)/",
+        "meaning_cn": "祖母",
+        "example_en": "My grandmother is kind.",
+        "example_cn": "我祖母很和蔼。"
+      },
+      {
+        "id": "grandpa_nouns_n",
+        "word": "grandpa",
+        "pos": "n",
+        "ipa": "/ˈɡrænpɑː/",
+        "meaning_cn": "爷爷/外公",
+        "example_en": "Grandpa is tall.",
+        "example_cn": "爷爷很高。"
+      },
+      {
+        "id": "grape_nouns_n",
+        "word": "grape",
+        "pos": "n",
+        "ipa": "/ɡreɪp/",
+        "meaning_cn": "葡萄",
+        "example_en": "I eat a grape.",
+        "example_cn": "我吃一颗葡萄。"
+      },
+      {
+        "id": "guitar_nouns_n",
+        "word": "guitar",
+        "pos": "n",
+        "ipa": "/ɡɪˈtɑː(r)/",
+        "meaning_cn": "吉他",
+        "example_en": "I play the guitar.",
+        "example_cn": "我弹吉他。"
+      },
+      {
+        "id": "hair_nouns_n",
+        "word": "hair",
+        "pos": "n",
+        "ipa": "/heə(r)/",
+        "meaning_cn": "头发",
+        "example_en": "I have long hair.",
+        "example_cn": "我有长头发。"
+      },
+      {
+        "id": "hall_nouns_n",
+        "word": "hall",
+        "pos": "n",
+        "ipa": "/hɔːl/",
+        "meaning_cn": "大厅",
+        "example_en": "I wait in the hall.",
+        "example_cn": "我在大厅等。"
+      },
+      {
+        "id": "hand_nouns_n",
+        "word": "hand",
+        "pos": "n",
+        "ipa": "/hænd/",
+        "meaning_cn": "手",
+        "example_en": "I raise my hand.",
+        "example_cn": "我举起手。"
+      },
+      {
+        "id": "handbag_nouns_n",
+        "word": "handbag",
+        "pos": "n",
+        "ipa": "/ˈhændbæɡ/",
+        "meaning_cn": "手提包",
+        "example_en": "I have a red handbag.",
+        "example_cn": "我有一个红色的手提包。"
+      },
+      {
+        "id": "hat_nouns_n",
+        "word": "hat",
+        "pos": "n",
+        "ipa": "/hæt/",
+        "meaning_cn": "帽子",
+        "example_en": "I wear a hat.",
+        "example_cn": "我戴帽子。"
+      },
+      {
+        "id": "head_nouns_n",
+        "word": "head",
+        "pos": "n",
+        "ipa": "/hed/",
+        "meaning_cn": "头",
+        "example_en": "I nod my head.",
+        "example_cn": "我点头。"
+      },
+      {
+        "id": "helicopter_nouns_n",
+        "word": "helicopter",
+        "pos": "n",
+        "ipa": "/ˈhelɪkɒptə(r)/",
+        "meaning_cn": "直升机",
+        "example_en": "I see a helicopter.",
+        "example_cn": "我看见一架直升机。"
+      },
+      {
+        "id": "hippo_nouns_n",
+        "word": "hippo",
+        "pos": "n",
+        "ipa": "/ˈhɪpəʊ/",
+        "meaning_cn": "河马",
+        "example_en": "The hippo is big.",
+        "example_cn": "这头河马很大。"
+      },
+      {
+        "id": "hobby_nouns_n",
+        "word": "hobby",
+        "pos": "n",
+        "ipa": "/ˈhɒbi/",
+        "meaning_cn": "爱好",
+        "example_en": "My hobby is drawing.",
+        "example_cn": "我的爱好是画画。"
+      },
+      {
+        "id": "hockey_nouns_n",
+        "word": "hockey",
+        "pos": "n",
+        "ipa": "/ˈhɒki/",
+        "meaning_cn": "曲棍球",
+        "example_en": "I play hockey.",
+        "example_cn": "我打曲棍球。"
+      },
+      {
+        "id": "home_nouns_n",
+        "word": "home",
+        "pos": "n",
+        "ipa": "/həʊm/",
+        "meaning_cn": "家",
+        "example_en": "I go home.",
+        "example_cn": "我回家。"
+      },
+      {
+        "id": "horse_nouns_n",
+        "word": "horse",
+        "pos": "n",
+        "ipa": "/hɔːs/",
+        "meaning_cn": "马",
+        "example_en": "I ride a horse.",
+        "example_cn": "我骑马。"
+      },
+      {
+        "id": "house_nouns_n",
+        "word": "house",
+        "pos": "n",
+        "ipa": "/haʊs/",
+        "meaning_cn": "房子",
+        "example_en": "I live in a house.",
+        "example_cn": "我住在一所房子里。"
+      },
+      {
+        "id": "hugo_nouns_n",
+        "word": "Hugo",
+        "pos": "n",
+        "ipa": "/ˈhjuːɡəʊ/",
+        "meaning_cn": "雨果",
+        "example_en": "Hugo is a boy.",
+        "example_cn": "雨果是个男孩。"
+      },
+      {
+        "id": "ice_cream_nouns_n",
+        "word": "ice cream",
+        "pos": "n",
+        "ipa": "/ˈaɪs kriːm/",
+        "meaning_cn": "冰淇淋",
+        "example_en": "I eat ice cream.",
+        "example_cn": "我吃冰淇淋。"
+      },
+      {
+        "id": "jacket_nouns_n",
+        "word": "jacket",
+        "pos": "n",
+        "ipa": "/ˈdʒækɪt/",
+        "meaning_cn": "夹克",
+        "example_en": "I wear a jacket.",
+        "example_cn": "我穿夹克。"
+      },
+      {
+        "id": "jeans_nouns_n",
+        "word": "jeans",
+        "pos": "n",
+        "ipa": "/dʒiːnz/",
+        "meaning_cn": "牛仔裤",
+        "example_en": "I wear jeans.",
+        "example_cn": "我穿牛仔裤。"
+      },
+      {
+        "id": "jellyfish_nouns_n",
+        "word": "jellyfish",
+        "pos": "n",
+        "ipa": "/ˈdʒelɪfɪʃ/",
+        "meaning_cn": "水母",
+        "example_en": "I see a jellyfish.",
+        "example_cn": "我看见一只水母。"
+      },
+      {
+        "id": "jill_nouns_n",
+        "word": "Jill",
+        "pos": "n",
+        "ipa": "/dʒɪl/",
+        "meaning_cn": "吉尔",
+        "example_en": "Jill likes dogs.",
+        "example_cn": "吉尔喜欢狗。"
+      },
+      {
+        "id": "juice_nouns_n",
+        "word": "juice",
+        "pos": "n",
+        "ipa": "/dʒuːs/",
+        "meaning_cn": "果汁",
+        "example_en": "I drink juice.",
+        "example_cn": "我喝果汁。"
+      },
+      {
+        "id": "keyboard_nouns_n",
+        "word": "keyboard",
+        "pos": "n",
+        "ipa": "/ˈkiːbɔːd/",
+        "meaning_cn": "键盘",
+        "example_en": "I type on the keyboard.",
+        "example_cn": "我在键盘上打字。"
+      },
+      {
+        "id": "kid_nouns_n",
+        "word": "kid",
+        "pos": "n",
+        "ipa": "/kɪd/",
+        "meaning_cn": "小孩",
+        "example_en": "The kid is happy.",
+        "example_cn": "这个小孩很开心。"
+      },
+      {
+        "id": "kim_nouns_n",
+        "word": "Kim",
+        "pos": "n",
+        "ipa": "/kɪm/",
+        "meaning_cn": "金",
+        "example_en": "Kim is my friend.",
+        "example_cn": "金是我的朋友。"
+      },
+      {
+        "id": "kitchen_nouns_n",
+        "word": "kitchen",
+        "pos": "n",
+        "ipa": "/ˈkɪtʃɪn/",
+        "meaning_cn": "厨房",
+        "example_en": "I cook in the kitchen.",
+        "example_cn": "我在厨房做饭。"
+      },
+      {
+        "id": "kite_nouns_n",
+        "word": "kite",
+        "pos": "n",
+        "ipa": "/kaɪt/",
+        "meaning_cn": "风筝",
+        "example_en": "I fly a kite.",
+        "example_cn": "我放风筝。"
+      },
+      {
+        "id": "kiwi_nouns_n",
+        "word": "kiwi",
+        "pos": "n",
+        "ipa": "/ˈkiːwiː/",
+        "meaning_cn": "猕猴桃/几维鸟",
+        "example_en": "I eat a kiwi.",
+        "example_cn": "我吃猕猴桃。"
+      },
+      {
+        "id": "lamp_nouns_n",
+        "word": "lamp",
+        "pos": "n",
+        "ipa": "/læmp/",
+        "meaning_cn": "台灯",
+        "example_en": "I turn on the lamp.",
+        "example_cn": "我打开台灯。"
+      },
+      {
+        "id": "leg_nouns_n",
+        "word": "leg",
+        "pos": "n",
+        "ipa": "/leɡ/",
+        "meaning_cn": "腿",
+        "example_en": "I have one leg.",
+        "example_cn": "我有一条腿。"
+      },
+      {
+        "id": "lemon_nouns_n",
+        "word": "lemon",
+        "pos": "n",
+        "ipa": "/ˈlemən/",
+        "meaning_cn": "柠檬",
+        "example_en": "I see a yellow lemon.",
+        "example_cn": "我看见一个黄柠檬。"
+      },
+      {
+        "id": "lemonade_nouns_n",
+        "word": "lemonade",
+        "pos": "n",
+        "ipa": "/ˌleməˈneɪd/",
+        "meaning_cn": "柠檬水",
+        "example_en": "I drink lemonade.",
+        "example_cn": "我喝柠檬水。"
+      },
+      {
+        "id": "lesson_nouns_n",
+        "word": "lesson",
+        "pos": "n",
+        "ipa": "/ˈlesn/",
+        "meaning_cn": "课",
+        "example_en": "I have a lesson.",
+        "example_cn": "我有一节课。"
+      },
+      {
+        "id": "letter_nouns_n",
+        "word": "letter",
+        "pos": "n",
+        "ipa": "/ˈletə(r)/",
+        "meaning_cn": "字母/信",
+        "example_en": "I write a letter.",
+        "example_cn": "我写一封信。"
+      },
+      {
+        "id": "lime_nouns_n",
+        "word": "lime",
+        "pos": "n",
+        "ipa": "/laɪm/",
+        "meaning_cn": "青柠",
+        "example_en": "I see a green lime.",
+        "example_cn": "我看见一个青柠。"
+      },
+      {
+        "id": "line_nouns_n",
+        "word": "line",
+        "pos": "n",
+        "ipa": "/laɪn/",
+        "meaning_cn": "线",
+        "example_en": "I draw a line.",
+        "example_cn": "我画一条线。"
+      },
+      {
+        "id": "living_room_nouns_n",
+        "word": "living room",
+        "pos": "n",
+        "ipa": "/ˈlɪvɪŋ ruːm/",
+        "meaning_cn": "客厅",
+        "example_en": "I sit in the living room.",
+        "example_cn": "我坐在客厅。"
+      },
+      {
+        "id": "lizard_nouns_n",
+        "word": "lizard",
+        "pos": "n",
+        "ipa": "/ˈlɪzəd/",
+        "meaning_cn": "蜥蜴",
+        "example_en": "The lizard is small.",
+        "example_cn": "这只蜥蜴很小。"
+      },
+      {
+        "id": "lorry_nouns_n",
+        "word": "lorry",
+        "pos": "n",
+        "ipa": "/ˈlɒri/",
+        "meaning_cn": "卡车",
+        "example_en": "I see a big lorry.",
+        "example_cn": "我看见一辆大卡车。"
+      },
+      {
+        "id": "lunch_nouns_n",
+        "word": "lunch",
+        "pos": "n",
+        "ipa": "/lʌntʃ/",
+        "meaning_cn": "午餐",
+        "example_en": "I have lunch.",
+        "example_cn": "我吃午餐。"
+      },
+      {
+        "id": "lucy_nouns_n",
+        "word": "Lucy",
+        "pos": "n",
+        "ipa": "/ˈluːsi/",
+        "meaning_cn": "露西",
+        "example_en": "Lucy is a girl.",
+        "example_cn": "露西是个女孩。"
+      },
+      {
+        "id": "man_men_nouns_n",
+        "word": "man/men",
+        "pos": "n",
+        "ipa": "/mæn/ /men/",
+        "meaning_cn": "男人",
+        "example_en": "The man is tall.",
+        "example_cn": "这个男人很高。"
+      },
+      {
+        "id": "mango_nouns_n",
+        "word": "mango",
+        "pos": "n",
+        "ipa": "/ˈmæŋɡəʊ/",
+        "meaning_cn": "芒果",
+        "example_en": "I eat a mango.",
+        "example_cn": "我吃芒果。"
+      },
+      {
+        "id": "mark_nouns_n",
+        "word": "Mark",
+        "pos": "n",
+        "ipa": "/mɑːk/",
+        "meaning_cn": "马克",
+        "example_en": "Mark has a ball.",
+        "example_cn": "马克有一个球。"
+      },
+      {
+        "id": "mat_nouns_n",
+        "word": "mat",
+        "pos": "n",
+        "ipa": "/mæt/",
+        "meaning_cn": "垫子",
+        "example_en": "I stand on the mat.",
+        "example_cn": "我站在垫子上。"
+      },
+      {
+        "id": "matt_nouns_n",
+        "word": "Matt",
+        "pos": "n",
+        "ipa": "/mæt/",
+        "meaning_cn": "马特",
+        "example_en": "Matt is my friend.",
+        "example_cn": "马特是我的朋友。"
+      },
+      {
+        "id": "may_nouns_n",
+        "word": "May",
+        "pos": "n",
+        "ipa": "/meɪ/",
+        "meaning_cn": "梅/五月",
+        "example_en": "May is here.",
+        "example_cn": "梅在这里。"
+      },
+      {
+        "id": "meat_nouns_n",
+        "word": "meat",
+        "pos": "n",
+        "ipa": "/miːt/",
+        "meaning_cn": "肉",
+        "example_en": "I eat meat.",
+        "example_cn": "我吃肉。"
+      },
+      {
+        "id": "meatballs_nouns_n",
+        "word": "meatballs",
+        "pos": "n",
+        "ipa": "/ˈmiːtbɔːlz/",
+        "meaning_cn": "肉丸",
+        "example_en": "I like meatballs.",
+        "example_cn": "我喜欢肉丸。"
+      },
+      {
+        "id": "milk_nouns_n",
+        "word": "milk",
+        "pos": "n",
+        "ipa": "/mɪlk/",
+        "meaning_cn": "牛奶",
+        "example_en": "I drink milk.",
+        "example_cn": "我喝牛奶。"
+      },
+      {
+        "id": "mirror_nouns_n",
+        "word": "mirror",
+        "pos": "n",
+        "ipa": "/ˈmɪrə(r)/",
+        "meaning_cn": "镜子",
+        "example_en": "I look in the mirror.",
+        "example_cn": "我照镜子。"
+      },
+      {
+        "id": "monkey_nouns_n",
+        "word": "monkey",
+        "pos": "n",
+        "ipa": "/ˈmʌŋki/",
+        "meaning_cn": "猴子",
+        "example_en": "The monkey is funny.",
+        "example_cn": "这只猴子很有趣。"
+      },
+      {
+        "id": "monster_nouns_n",
+        "word": "monster",
+        "pos": "n",
+        "ipa": "/ˈmɒnstə(r)/",
+        "meaning_cn": "怪物",
+        "example_en": "I see a monster.",
+        "example_cn": "我看见一个怪物。"
+      },
+      {
+        "id": "morning_nouns_n",
+        "word": "morning",
+        "pos": "n",
+        "ipa": "/ˈmɔːnɪŋ/",
+        "meaning_cn": "早上",
+        "example_en": "I get up in the morning.",
+        "example_cn": "我早上起床。"
+      },
+      {
+        "id": "mother_nouns_n",
+        "word": "mother",
+        "pos": "n",
+        "ipa": "/ˈmʌðə(r)/",
+        "meaning_cn": "母亲",
+        "example_en": "My mother is nice.",
+        "example_cn": "我妈妈很好。"
+      },
+      {
+        "id": "motorbike_nouns_n",
+        "word": "motorbike",
+        "pos": "n",
+        "ipa": "/ˈməʊtəbaɪk/",
+        "meaning_cn": "摩托车",
+        "example_en": "I see a red motorbike.",
+        "example_cn": "我看见一辆红色摩托车。"
+      },
+      {
+        "id": "mouse_mice_nouns_n",
+        "word": "mouse/mice",
+        "pos": "n",
+        "ipa": "/maʊs/ /maɪs/",
+        "meaning_cn": "老鼠",
+        "example_en": "I see a mouse.",
+        "example_cn": "我看见一只老鼠。"
+      },
+      {
+        "id": "mouse_nouns_n",
+        "word": "mouse",
+        "pos": "n",
+        "ipa": "/maʊs/",
+        "meaning_cn": "鼠标",
+        "example_en": "I use a mouse.",
+        "example_cn": "我用鼠标。"
+      },
+      {
+        "id": "mouth_nouns_n",
+        "word": "mouth",
+        "pos": "n",
+        "ipa": "/maʊθ/",
+        "meaning_cn": "嘴巴",
+        "example_en": "I open my mouth.",
+        "example_cn": "我张开嘴。"
+      },
+      {
+        "id": "mum_nouns_n",
+        "word": "mum",
+        "pos": "n",
+        "ipa": "/mʌm/",
+        "meaning_cn": "妈妈",
+        "example_en": "Mum is here.",
+        "example_cn": "妈妈在这里。"
+      },
+      {
+        "id": "music_nouns_n",
+        "word": "music",
+        "pos": "n",
+        "ipa": "/ˈmjuːzɪk/",
+        "meaning_cn": "音乐",
+        "example_en": "I listen to music.",
+        "example_cn": "我听音乐。"
+      },
+      {
+        "id": "name_nouns_n",
+        "word": "name",
+        "pos": "n",
+        "ipa": "/neɪm/",
+        "meaning_cn": "名字",
+        "example_en": "My name is Tom.",
+        "example_cn": "我的名字是汤姆。"
+      },
+      {
+        "id": "nick_nouns_n",
+        "word": "Nick",
+        "pos": "n",
+        "ipa": "/nɪk/",
+        "meaning_cn": "尼克",
+        "example_en": "Nick is a boy.",
+        "example_cn": "尼克是个男孩。"
+      },
+      {
+        "id": "night_nouns_n",
+        "word": "night",
+        "pos": "n",
+        "ipa": "/naɪt/",
+        "meaning_cn": "夜晚",
+        "example_en": "I sleep at night.",
+        "example_cn": "我晚上睡觉。"
+      },
+      {
+        "id": "nose_nouns_n",
+        "word": "nose",
+        "pos": "n",
+        "ipa": "/nəʊz/",
+        "meaning_cn": "鼻子",
+        "example_en": "I touch my nose.",
+        "example_cn": "我摸我的鼻子。"
+      },
+      {
+        "id": "number_nouns_n",
+        "word": "number",
+        "pos": "n",
+        "ipa": "/ˈnʌmbə(r)/",
+        "meaning_cn": "数字",
+        "example_en": "I write a number.",
+        "example_cn": "我写一个数字。"
+      },
+      {
+        "id": "onion_nouns_n",
+        "word": "onion",
+        "pos": "n",
+        "ipa": "/ˈʌnjən/",
+        "meaning_cn": "洋葱",
+        "example_en": "I eat an onion.",
+        "example_cn": "我吃洋葱。"
+      },
+      {
+        "id": "orange_nouns_n",
+        "word": "orange",
+        "pos": "n",
+        "ipa": "/ˈɒrɪndʒ/",
+        "meaning_cn": "橙子/橙色",
+        "example_en": "I eat an orange.",
+        "example_cn": "我吃橙子。"
+      },
+      {
+        "id": "page_nouns_n",
+        "word": "page",
+        "pos": "n",
+        "ipa": "/peɪdʒ/",
+        "meaning_cn": "页",
+        "example_en": "I turn the page.",
+        "example_cn": "我翻页。"
+      },
+      {
+        "id": "paint_nouns_n",
+        "word": "paint",
+        "pos": "n",
+        "ipa": "/peɪnt/",
+        "meaning_cn": "颜料",
+        "example_en": "I use blue paint.",
+        "example_cn": "我用蓝色颜料。"
+      },
+      {
+        "id": "painting_nouns_n",
+        "word": "painting",
+        "pos": "n",
+        "ipa": "/ˈpeɪntɪŋ/",
+        "meaning_cn": "画作",
+        "example_en": "I see a painting.",
+        "example_cn": "我看见一幅画。"
+      },
+      {
+        "id": "paper_nouns_n",
+        "word": "paper",
+        "pos": "n",
+        "ipa": "/ˈpeɪpə(r)/",
+        "meaning_cn": "纸",
+        "example_en": "I have a piece of paper.",
+        "example_cn": "我有一张纸。"
+      },
+      {
+        "id": "park_nouns_n",
+        "word": "park",
+        "pos": "n",
+        "ipa": "/pɑːk/",
+        "meaning_cn": "公园",
+        "example_en": "I play in the park.",
+        "example_cn": "我在公园玩。"
+      },
+      {
+        "id": "part_nouns_n",
+        "word": "part",
+        "pos": "n",
+        "ipa": "/pɑːt/",
+        "meaning_cn": "部分",
+        "example_en": "It is a part.",
+        "example_cn": "这是一部分。"
+      },
+      {
+        "id": "pat_nouns_n",
+        "word": "Pat",
+        "pos": "n",
+        "ipa": "/pæt/",
+        "meaning_cn": "帕特",
+        "example_en": "Pat is my friend.",
+        "example_cn": "帕特是我的朋友。"
+      },
+      {
+        "id": "pea_nouns_n",
+        "word": "pea",
+        "pos": "n",
+        "ipa": "/piː/",
+        "meaning_cn": "豌豆",
+        "example_en": "I eat a pea.",
+        "example_cn": "我吃豌豆。"
+      },
+      {
+        "id": "pear_nouns_n",
+        "word": "pear",
+        "pos": "n",
+        "ipa": "/peə(r)/",
+        "meaning_cn": "梨",
+        "example_en": "I eat a pear.",
+        "example_cn": "我吃梨。"
+      },
+      {
+        "id": "pen_nouns_n",
+        "word": "pen",
+        "pos": "n",
+        "ipa": "/pen/",
+        "meaning_cn": "钢笔",
+        "example_en": "I write with a pen.",
+        "example_cn": "我用钢笔写字。"
+      },
+      {
+        "id": "pencil_nouns_n",
+        "word": "pencil",
+        "pos": "n",
+        "ipa": "/ˈpensl/",
+        "meaning_cn": "铅笔",
+        "example_en": "I have a pencil.",
+        "example_cn": "我有一支铅笔。"
+      },
+      {
+        "id": "person_people_nouns_n",
+        "word": "person/people",
+        "pos": "n",
+        "ipa": "/ˈpɜːsn/ /ˈpiːpl/",
+        "meaning_cn": "人/人们",
+        "example_en": "I see a person.",
+        "example_cn": "我看见一个人。"
+      },
+      {
+        "id": "pet_nouns_n",
+        "word": "pet",
+        "pos": "n",
+        "ipa": "/pet/",
+        "meaning_cn": "宠物",
+        "example_en": "I have a pet.",
+        "example_cn": "我有一只宠物。"
+      },
+      {
+        "id": "phone_nouns_n",
+        "word": "phone",
+        "pos": "n",
+        "ipa": "/fəʊn/",
+        "meaning_cn": "电话",
+        "example_en": "I talk on the phone.",
+        "example_cn": "我打电话。"
+      },
+      {
+        "id": "photo_nouns_n",
+        "word": "photo",
+        "pos": "n",
+        "ipa": "/ˈfəʊtəʊ/",
+        "meaning_cn": "照片",
+        "example_en": "I take a photo.",
+        "example_cn": "我拍照片。"
+      },
+      {
+        "id": "piano_nouns_n",
+        "word": "piano",
+        "pos": "n",
+        "ipa": "/piˈænəʊ/",
+        "meaning_cn": "钢琴",
+        "example_en": "I play the piano.",
+        "example_cn": "我弹钢琴。"
+      },
+      {
+        "id": "picture_nouns_n",
+        "word": "picture",
+        "pos": "n",
+        "ipa": "/ˈpɪktʃə(r)/",
+        "meaning_cn": "图片",
+        "example_en": "I draw a picture.",
+        "example_cn": "我画一幅画。"
+      },
+      {
+        "id": "pie_nouns_n",
+        "word": "pie",
+        "pos": "n",
+        "ipa": "/paɪ/",
+        "meaning_cn": "馅饼",
+        "example_en": "I eat a pie.",
+        "example_cn": "我吃馅饼。"
+      },
+      {
+        "id": "pineapple_nouns_n",
+        "word": "pineapple",
+        "pos": "n",
+        "ipa": "/ˈpaɪnæpl/",
+        "meaning_cn": "菠萝",
+        "example_en": "I eat a pineapple.",
+        "example_cn": "我吃菠萝。"
+      },
+      {
+        "id": "plane_nouns_n",
+        "word": "plane",
+        "pos": "n",
+        "ipa": "/pleɪn/",
+        "meaning_cn": "飞机",
+        "example_en": "I see a plane.",
+        "example_cn": "我看见一架飞机。"
+      },
+      {
+        "id": "playground_nouns_n",
+        "word": "playground",
+        "pos": "n",
+        "ipa": "/ˈpleɪɡraʊnd/",
+        "meaning_cn": "操场",
+        "example_en": "I play in the playground.",
+        "example_cn": "我在操场玩。"
+      },
+      {
+        "id": "polar_bear_nouns_n",
+        "word": "polar bear",
+        "pos": "n",
+        "ipa": "/ˈpəʊlə beə(r)/",
+        "meaning_cn": "北极熊",
+        "example_en": "The polar bear is white.",
+        "example_cn": "这只北极熊是白色的。"
+      },
+      {
+        "id": "poster_nouns_n",
+        "word": "poster",
+        "pos": "n",
+        "ipa": "/ˈpəʊstə(r)/",
+        "meaning_cn": "海报",
+        "example_en": "I put up a poster.",
+        "example_cn": "我贴一张海报。"
+      },
+      {
+        "id": "potato_nouns_n",
+        "word": "potato",
+        "pos": "n",
+        "ipa": "/pəˈteɪtəʊ/",
+        "meaning_cn": "土豆",
+        "example_en": "I eat a potato.",
+        "example_cn": "我吃土豆。"
+      },
+      {
+        "id": "question_nouns_n",
+        "word": "question",
+        "pos": "n",
+        "ipa": "/ˈkwestʃən/",
+        "meaning_cn": "问题",
+        "example_en": "I ask a question.",
+        "example_cn": "我问一个问题。"
+      },
+      {
+        "id": "radio_nouns_n",
+        "word": "radio",
+        "pos": "n",
+        "ipa": "/ˈreɪdiəʊ/",
+        "meaning_cn": "收音机",
+        "example_en": "I listen to the radio.",
+        "example_cn": "我听收音机。"
+      },
+      {
+        "id": "rice_nouns_n",
+        "word": "rice",
+        "pos": "n",
+        "ipa": "/raɪs/",
+        "meaning_cn": "米饭",
+        "example_en": "I eat rice.",
+        "example_cn": "我吃米饭。"
+      },
+      {
+        "id": "robot_nouns_n",
+        "word": "robot",
+        "pos": "n",
+        "ipa": "/ˈrəʊbɒt/",
+        "meaning_cn": "机器人",
+        "example_en": "I have a robot.",
+        "example_cn": "我有一个机器人。"
+      },
+      {
+        "id": "room_nouns_n",
+        "word": "room",
+        "pos": "n",
+        "ipa": "/ruːm/",
+        "meaning_cn": "房间",
+        "example_en": "I clean my room.",
+        "example_cn": "我打扫我的房间。"
+      },
+      {
+        "id": "rubber_nouns_n",
+        "word": "rubber",
+        "pos": "n",
+        "ipa": "/ˈrʌbə(r)/",
+        "meaning_cn": "橡皮",
+        "example_en": "I use a rubber.",
+        "example_cn": "我用橡皮。"
+      },
+      {
+        "id": "rug_nouns_n",
+        "word": "rug",
+        "pos": "n",
+        "ipa": "/rʌɡ/",
+        "meaning_cn": "小地毯",
+        "example_en": "The rug is soft.",
+        "example_cn": "这小地毯很软。"
+      },
+      {
+        "id": "ruler_nouns_n",
+        "word": "ruler",
+        "pos": "n",
+        "ipa": "/ˈruːlə(r)/",
+        "meaning_cn": "尺子",
+        "example_en": "I draw with a ruler.",
+        "example_cn": "我用尺子画画。"
+      },
+      {
+        "id": "sam_nouns_n",
+        "word": "Sam",
+        "pos": "n",
+        "ipa": "/sæm/",
+        "meaning_cn": "萨姆",
+        "example_en": "Sam is a boy.",
+        "example_cn": "萨姆是个男孩。"
+      },
+      {
+        "id": "sand_nouns_n",
+        "word": "sand",
+        "pos": "n",
+        "ipa": "/sænd/",
+        "meaning_cn": "沙子",
+        "example_en": "I play with sand.",
+        "example_cn": "我玩沙子。"
+      },
+      {
+        "id": "sausage_nouns_n",
+        "word": "sausage",
+        "pos": "n",
+        "ipa": "/ˈsɒsɪdʒ/",
+        "meaning_cn": "香肠",
+        "example_en": "I eat a sausage.",
+        "example_cn": "我吃香肠。"
+      },
+      {
+        "id": "school_nouns_n",
+        "word": "school",
+        "pos": "n",
+        "ipa": "/skuːl/",
+        "meaning_cn": "学校",
+        "example_en": "I go to school.",
+        "example_cn": "我去学校。"
+      },
+      {
+        "id": "sea_nouns_n",
+        "word": "sea",
+        "pos": "n",
+        "ipa": "/siː/",
+        "meaning_cn": "海",
+        "example_en": "I see the sea.",
+        "example_cn": "我看见海。"
+      },
+      {
+        "id": "sentence_nouns_n",
+        "word": "sentence",
+        "pos": "n",
+        "ipa": "/ˈsentəns/",
+        "meaning_cn": "句子",
+        "example_en": "I write a sentence.",
+        "example_cn": "我写一个句子。"
+      },
+      {
+        "id": "sheep_nouns_n",
+        "word": "sheep",
+        "pos": "n",
+        "ipa": "/ʃiːp/",
+        "meaning_cn": "绵羊",
+        "example_en": "I see a sheep.",
+        "example_cn": "我看见一只绵羊。"
+      },
+      {
+        "id": "shell_nouns_n",
+        "word": "shell",
+        "pos": "n",
+        "ipa": "/ʃel/",
+        "meaning_cn": "贝壳",
+        "example_en": "I find a shell.",
+        "example_cn": "我找到一个贝壳。"
+      },
+      {
+        "id": "ship_nouns_n",
+        "word": "ship",
+        "pos": "n",
+        "ipa": "/ʃɪp/",
+        "meaning_cn": "船",
+        "example_en": "I see a big ship.",
+        "example_cn": "我看见一艘大船。"
+      },
+      {
+        "id": "shirt_nouns_n",
+        "word": "shirt",
+        "pos": "n",
+        "ipa": "/ʃɜːt/",
+        "meaning_cn": "衬衫",
+        "example_en": "I wear a shirt.",
+        "example_cn": "我穿衬衫。"
+      },
+      {
+        "id": "shoe_nouns_n",
+        "word": "shoe",
+        "pos": "n",
+        "ipa": "/ʃuː/",
+        "meaning_cn": "鞋子",
+        "example_en": "I tie my shoe.",
+        "example_cn": "我系鞋带。"
+      },
+      {
+        "id": "shop_nouns_n",
+        "word": "shop",
+        "pos": "n",
+        "ipa": "/ʃɒp/",
+        "meaning_cn": "商店",
+        "example_en": "I go to the shop.",
+        "example_cn": "我去商店。"
+      },
+      {
+        "id": "shops_nouns_n",
+        "word": "shops",
+        "pos": "n",
+        "ipa": "/ʃɒps/",
+        "meaning_cn": "商店（复数）",
+        "example_en": "I see the shops.",
+        "example_cn": "我看见这些商店。"
+      },
+      {
+        "id": "shorts_nouns_n",
+        "word": "shorts",
+        "pos": "n",
+        "ipa": "/ʃɔːts/",
+        "meaning_cn": "短裤",
+        "example_en": "I wear shorts.",
+        "example_cn": "我穿短裤。"
+      },
+      {
+        "id": "sister_nouns_n",
+        "word": "sister",
+        "pos": "n",
+        "ipa": "/ˈsɪstə(r)/",
+        "meaning_cn": "姐妹",
+        "example_en": "My sister is small.",
+        "example_cn": "我的姐妹很小。"
+      },
+      {
+        "id": "skateboard_nouns_n",
+        "word": "skateboard",
+        "pos": "n",
+        "ipa": "/ˈskeɪtbɔːd/",
+        "meaning_cn": "滑板",
+        "example_en": "I ride a skateboard.",
+        "example_cn": "我滑滑板。"
+      },
+      {
+        "id": "skateboarding_nouns_n",
+        "word": "skateboarding",
+        "pos": "n",
+        "ipa": "/ˈskeɪtbɔːdɪŋ/",
+        "meaning_cn": "滑板运动",
+        "example_en": "I like skateboarding.",
+        "example_cn": "我喜欢滑板运动。"
+      },
+      {
+        "id": "skirt_nouns_n",
+        "word": "skirt",
+        "pos": "n",
+        "ipa": "/skɜːt/",
+        "meaning_cn": "裙子",
+        "example_en": "I wear a skirt.",
+        "example_cn": "我穿裙子。"
+      },
+      {
+        "id": "smile_nouns_n",
+        "word": "smile",
+        "pos": "n",
+        "ipa": "/smaɪl/",
+        "meaning_cn": "微笑",
+        "example_en": "I have a big smile.",
+        "example_cn": "我灿烂地微笑。"
+      },
+      {
+        "id": "snake_nouns_n",
+        "word": "snake",
+        "pos": "n",
+        "ipa": "/sneɪk/",
+        "meaning_cn": "蛇",
+        "example_en": "The snake is long.",
+        "example_cn": "这条蛇很长。"
+      },
+      {
+        "id": "soccer_nouns_n",
+        "word": "soccer",
+        "pos": "n",
+        "ipa": "/ˈsɒkə(r)/",
+        "meaning_cn": "足球",
+        "example_en": "I play soccer.",
+        "example_cn": "我踢足球。"
+      },
+      {
+        "id": "sofa_nouns_n",
+        "word": "sofa",
+        "pos": "n",
+        "ipa": "/ˈsəʊfə/",
+        "meaning_cn": "沙发",
+        "example_en": "I sit on the sofa.",
+        "example_cn": "我坐在沙发上。"
+      },
+      {
+        "id": "song_nouns_n",
+        "word": "song",
+        "pos": "n",
+        "ipa": "/sɒŋ/",
+        "meaning_cn": "歌曲",
+        "example_en": "I sing a song.",
+        "example_cn": "我唱歌。"
+      },
+      {
+        "id": "spider_nouns_n",
+        "word": "spider",
+        "pos": "n",
+        "ipa": "/ˈspaɪdə(r)/",
+        "meaning_cn": "蜘蛛",
+        "example_en": "I see a spider.",
+        "example_cn": "我看见一只蜘蛛。"
+      },
+      {
+        "id": "sport_nouns_n",
+        "word": "sport",
+        "pos": "n",
+        "ipa": "/spɔːt/",
+        "meaning_cn": "运动",
+        "example_en": "I like sport.",
+        "example_cn": "我喜欢运动。"
+      },
+      {
+        "id": "store_nouns_n",
+        "word": "store",
+        "pos": "n",
+        "ipa": "/stɔː(r)/",
+        "meaning_cn": "商店",
+        "example_en": "I go to the store.",
+        "example_cn": "我去商店。"
+      },
+      {
+        "id": "story_nouns_n",
+        "word": "story",
+        "pos": "n",
+        "ipa": "/ˈstɔːri/",
+        "meaning_cn": "故事",
+        "example_en": "I read a story.",
+        "example_cn": "我读故事。"
+      },
+      {
+        "id": "street_nouns_n",
+        "word": "street",
+        "pos": "n",
+        "ipa": "/striːt/",
+        "meaning_cn": "街道",
+        "example_en": "I walk on the street.",
+        "example_cn": "我走在街道上。"
+      },
+      {
+        "id": "sue_nouns_n",
+        "word": "Sue",
+        "pos": "n",
+        "ipa": "/suː/",
+        "meaning_cn": "苏",
+        "example_en": "Sue is a girl.",
+        "example_cn": "苏是个女孩。"
+      },
+      {
+        "id": "sun_nouns_n",
+        "word": "sun",
+        "pos": "n",
+        "ipa": "/sʌn/",
+        "meaning_cn": "太阳",
+        "example_en": "The sun is hot.",
+        "example_cn": "太阳很热。"
+      },
+      {
+        "id": "sweets_nouns_n",
+        "word": "sweet(s)",
+        "pos": "n",
+        "ipa": "/swiːt(s)/",
+        "meaning_cn": "糖果",
+        "example_en": "I like sweets.",
+        "example_cn": "我喜欢糖果。"
+      },
+      {
+        "id": "table_nouns_n",
+        "word": "table",
+        "pos": "n",
+        "ipa": "/ˈteɪbl/",
+        "meaning_cn": "桌子",
+        "example_en": "I sit at the table.",
+        "example_cn": "我坐在桌子旁。"
+      },
+      {
+        "id": "table_tennis_nouns_n",
+        "word": "table tennis",
+        "pos": "n",
+        "ipa": "/ˈteɪbl tenɪs/",
+        "meaning_cn": "乒乓球",
+        "example_en": "I play table tennis.",
+        "example_cn": "我打乒乓球。"
+      },
+      {
+        "id": "tablet_nouns_n",
+        "word": "tablet",
+        "pos": "n",
+        "ipa": "/ˈtæblət/",
+        "meaning_cn": "平板电脑",
+        "example_en": "I use a tablet.",
+        "example_cn": "我用平板电脑。"
+      },
+      {
+        "id": "tail_nouns_n",
+        "word": "tail",
+        "pos": "n",
+        "ipa": "/teɪl/",
+        "meaning_cn": "尾巴",
+        "example_en": "The dog has a tail.",
+        "example_cn": "狗有一条尾巴。"
+      },
+      {
+        "id": "teddy_bear_nouns_n",
+        "word": "teddy (bear)",
+        "pos": "n",
+        "ipa": "/ˈtedi beə(r)/",
+        "meaning_cn": "泰迪熊",
+        "example_en": "I have a teddy bear.",
+        "example_cn": "我有一只泰迪熊。"
+      },
+      {
+        "id": "teacher_nouns_n",
+        "word": "teacher",
+        "pos": "n",
+        "ipa": "/ˈtiːtʃə(r)/",
+        "meaning_cn": "老师",
+        "example_en": "My teacher is nice.",
+        "example_cn": "我的老师很好。"
+      },
+      {
+        "id": "television_tv_nouns_n",
+        "word": "television/TV",
+        "pos": "n",
+        "ipa": "/ˈtelɪvɪʒn/",
+        "meaning_cn": "电视",
+        "example_en": "I watch TV.",
+        "example_cn": "我看电视。"
+      },
+      {
+        "id": "tennis_nouns_n",
+        "word": "tennis",
+        "pos": "n",
+        "ipa": "/ˈtenɪs/",
+        "meaning_cn": "网球",
+        "example_en": "I play tennis.",
+        "example_cn": "我打网球。"
+      },
+      {
+        "id": "tennis_racket_nouns_n",
+        "word": "tennis racket",
+        "pos": "n",
+        "ipa": "/ˈtenɪs rækɪt/",
+        "meaning_cn": "网球拍",
+        "example_en": "I have a tennis racket.",
+        "example_cn": "我有一个网球拍。"
+      },
+      {
+        "id": "thing_nouns_n",
+        "word": "thing",
+        "pos": "n",
+        "ipa": "/θɪŋ/",
+        "meaning_cn": "东西",
+        "example_en": "It is a big thing.",
+        "example_cn": "这是一个大东西。"
+      },
+      {
+        "id": "tick_nouns_n",
+        "word": "tick",
+        "pos": "n",
+        "ipa": "/tɪk/",
+        "meaning_cn": "勾号",
+        "example_en": "I draw a tick.",
+        "example_cn": "我画一个勾号。"
+      },
+      {
+        "id": "tiger_nouns_n",
+        "word": "tiger",
+        "pos": "n",
+        "ipa": "/ˈtaɪɡə(r)/",
+        "meaning_cn": "老虎",
+        "example_en": "The tiger is orange.",
+        "example_cn": "这只老虎是橙色的。"
+      },
+      {
+        "id": "today_nouns_n",
+        "word": "today",
+        "pos": "n",
+        "ipa": "/təˈdeɪ/",
+        "meaning_cn": "今天",
+        "example_en": "Today is Monday.",
+        "example_cn": "今天是星期一。"
+      },
+      {
+        "id": "tomato_nouns_n",
+        "word": "tomato",
+        "pos": "n",
+        "ipa": "/təˈmɑːtəʊ/",
+        "meaning_cn": "番茄",
+        "example_en": "I eat a red tomato.",
+        "example_cn": "我吃一个红番茄。"
+      },
+      {
+        "id": "tomorrow_nouns_n",
+        "word": "tomorrow",
+        "pos": "n",
+        "ipa": "/təˈmɒrəʊ/",
+        "meaning_cn": "明天",
+        "example_en": "Tomorrow is my birthday.",
+        "example_cn": "明天是我的生日。"
+      },
+      {
+        "id": "tooth_teeth_nouns_n",
+        "word": "tooth/teeth",
+        "pos": "n",
+        "ipa": "/tuːθ/ /tiːθ/",
+        "meaning_cn": "牙齿",
+        "example_en": "I brush my tooth.",
+        "example_cn": "我刷我的牙。"
+      },
+      {
+        "id": "toy_nouns_n",
+        "word": "toy",
+        "pos": "n",
+        "ipa": "/tɔɪ/",
+        "meaning_cn": "玩具",
+        "example_en": "I have a toy car.",
+        "example_cn": "我有一个玩具车。"
+      },
+      {
+        "id": "train_nouns_n",
+        "word": "train",
+        "pos": "n",
+        "ipa": "/treɪn/",
+        "meaning_cn": "火车",
+        "example_en": "I see a train.",
+        "example_cn": "我看见一列火车。"
+      },
+      {
+        "id": "tree_nouns_n",
+        "word": "tree",
+        "pos": "n",
+        "ipa": "/triː/",
+        "meaning_cn": "树",
+        "example_en": "I climb a tree.",
+        "example_cn": "我爬树。"
+      },
+      {
+        "id": "trousers_nouns_n",
+        "word": "trousers",
+        "pos": "n",
+        "ipa": "/ˈtraʊzəz/",
+        "meaning_cn": "裤子",
+        "example_en": "I wear blue trousers.",
+        "example_cn": "我穿蓝色裤子。"
+      },
+      {
+        "id": "t_shirt_nouns_n",
+        "word": "T-shirt",
+        "pos": "n",
+        "ipa": "/ˈtiː ʃɜːt/",
+        "meaning_cn": "T恤衫",
+        "example_en": "I wear a white T-shirt.",
+        "example_cn": "我穿一件白色T恤。"
+      },
+      {
+        "id": "umbrella_nouns_n",
+        "word": "umbrella",
+        "pos": "n",
+        "ipa": "/ʌmˈbrelə/",
+        "meaning_cn": "雨伞",
+        "example_en": "I use an umbrella.",
+        "example_cn": "我用雨伞。"
+      },
+      {
+        "id": "vegetable_nouns_n",
+        "word": "vegetable",
+        "pos": "n",
+        "ipa": "/ˈvedʒtəbl/",
+        "meaning_cn": "蔬菜",
+        "example_en": "I eat vegetables.",
+        "example_cn": "我吃蔬菜。"
+      },
+      {
+        "id": "video_nouns_n",
+        "word": "video",
+        "pos": "n",
+        "ipa": "/ˈvɪdiəʊ/",
+        "meaning_cn": "视频",
+        "example_en": "I watch a video.",
+        "example_cn": "我看一个视频。"
+      },
+      {
+        "id": "walk_nouns_n",
+        "word": "walk",
+        "pos": "n",
+        "ipa": "/wɔːk/",
+        "meaning_cn": "散步",
+        "example_en": "I go for a walk.",
+        "example_cn": "我去散步。"
+      },
+      {
+        "id": "wall_nouns_n",
+        "word": "wall",
+        "pos": "n",
+        "ipa": "/wɔːl/",
+        "meaning_cn": "墙",
+        "example_en": "The wall is white.",
+        "example_cn": "墙是白色的。"
+      },
+      {
+        "id": "wardrobe_nouns_n",
+        "word": "wardrobe",
+        "pos": "n",
+        "ipa": "/ˈwɔːdrəʊb/",
+        "meaning_cn": "衣柜",
+        "example_en": "I put my clothes in the wardrobe.",
+        "example_cn": "我把衣服放进衣柜。"
+      },
+      {
+        "id": "watch_nouns_n",
+        "word": "watch",
+        "pos": "n",
+        "ipa": "/wɒtʃ/",
+        "meaning_cn": "手表",
+        "example_en": "I have a new watch.",
+        "example_cn": "我有一块新手表。"
+      },
+      {
+        "id": "water_nouns_n",
+        "word": "water",
+        "pos": "n",
+        "ipa": "/ˈwɔːtə(r)/",
+        "meaning_cn": "水",
+        "example_en": "I drink water.",
+        "example_cn": "我喝水。"
+      },
+      {
+        "id": "watermelon_nouns_n",
+        "word": "watermelon",
+        "pos": "n",
+        "ipa": "/ˈwɔːtəmelən/",
+        "meaning_cn": "西瓜",
+        "example_en": "I eat watermelon.",
+        "example_cn": "我吃西瓜。"
+      },
+      {
+        "id": "weather_nouns_n",
+        "word": "weather",
+        "pos": "n",
+        "ipa": "/ˈweðə(r)/",
+        "meaning_cn": "天气",
+        "example_en": "The weather is sunny.",
+        "example_cn": "天气晴朗。"
+      },
+      {
+        "id": "week_nouns_n",
+        "word": "week",
+        "pos": "n",
+        "ipa": "/wiːk/",
+        "meaning_cn": "周",
+        "example_en": "I go to school every week.",
+        "example_cn": "我每周去上学。"
+      },
+      {
+        "id": "wheel_nouns_n",
+        "word": "wheel",
+        "pos": "n",
+        "ipa": "/wiːl/",
+        "meaning_cn": "轮子",
+        "example_en": "The car has four wheels.",
+        "example_cn": "这辆车有四个轮子。"
+      },
+      {
+        "id": "window_nouns_n",
+        "word": "window",
+        "pos": "n",
+        "ipa": "/ˈwɪndəʊ/",
+        "meaning_cn": "窗户",
+        "example_en": "I open the window.",
+        "example_cn": "我打开窗户。"
+      },
+      {
+        "id": "woman_women_nouns_n",
+        "word": "woman/women",
+        "pos": "n",
+        "ipa": "/ˈwʊmən/ /ˈwɪmɪn/",
+        "meaning_cn": "女人",
+        "example_en": "The woman is kind.",
+        "example_cn": "这个女人很友善。"
+      },
+      {
+        "id": "word_nouns_n",
+        "word": "word",
+        "pos": "n",
+        "ipa": "/wɜːd/",
+        "meaning_cn": "单词",
+        "example_en": "I learn a new word.",
+        "example_cn": "我学一个新单词。"
+      },
+      {
+        "id": "x_ray_nouns_n",
+        "word": "X-ray",
+        "pos": "n",
+        "ipa": "/ˈeks reɪ/",
+        "meaning_cn": "X光片",
+        "example_en": "The doctor looks at the X-ray.",
+        "example_cn": "医生看X光片。"
+      },
+      {
+        "id": "year_nouns_n",
+        "word": "year",
+        "pos": "n",
+        "ipa": "/jɪə(r)/",
+        "meaning_cn": "年",
+        "example_en": "I am seven years old.",
+        "example_cn": "我七岁了。"
+      },
+      {
+        "id": "zebra_nouns_n",
+        "word": "zebra",
+        "pos": "n",
+        "ipa": "/ˈzebrə/",
+        "meaning_cn": "斑马",
+        "example_en": "The zebra is black and white.",
+        "example_cn": "这只斑马是黑白相间的。"
+      },
+      {
+        "id": "zoo_nouns_n",
+        "word": "zoo",
+        "pos": "n",
+        "ipa": "/zuː/",
+        "meaning_cn": "动物园",
+        "example_en": "I go to the zoo.",
+        "example_cn": "我去动物园。"
+      }
+    ]
+  }
+}

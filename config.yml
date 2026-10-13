@@ -1,0 +1,7 @@
+output_dir: output
+font_family: Andika
+pdf_command: weasyprint
+short_min: 0.333333
+short_max: 0.5
+long_min: 0.6
+long_max: 0.9

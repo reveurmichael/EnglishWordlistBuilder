@@ -1,0 +1,97 @@
+{
+  "world_around_us": {
+    "id": "world_around_us",
+    "kind": "flashcard",
+    "title": "The world around us",
+    "title_cn": "我们周围的世界",
+    "css_class": "world",
+    "level": "pre-a1",
+    "cards": [
+      { "id": "beach_world_around_us_n", "word": "beach", "pos": "n", "ipa": "/biːtʃ/", "meaning_cn": "海滩", "example_en": "I play on the beach.", "example_cn": "我在海滩上玩。" },
+      { "id": "sand_world_around_us_n", "word": "sand", "pos": "n", "ipa": "/sænd/", "meaning_cn": "沙子", "example_en": "The sand is hot.", "example_cn": "沙子很热。" },
+      { "id": "sea_world_around_us_n", "word": "sea", "pos": "n", "ipa": "/siː/", "meaning_cn": "海", "example_en": "I see the sea.", "example_cn": "我看见了大海。" },
+      { "id": "shell_world_around_us_n", "word": "shell", "pos": "n", "ipa": "/ʃel/", "meaning_cn": "贝壳", "example_en": "I have a shell.", "example_cn": "我有一个贝壳。" },
+      { "id": "street_world_around_us_n", "word": "street", "pos": "n", "ipa": "/striːt/", "meaning_cn": "街道", "example_en": "The street is long.", "example_cn": "这条街很长。" },
+      { "id": "sun_world_around_us_n", "word": "sun", "pos": "n", "ipa": "/sʌn/", "meaning_cn": "太阳", "example_en": "The sun is hot.", "example_cn": "太阳很热。" },
+      { "id": "tree_world_around_us_n", "word": "tree", "pos": "n", "ipa": "/triː/", "meaning_cn": "树", "example_en": "I see a tree.", "example_cn": "我看见一棵树。" },
+      { "id": "water_world_around_us_n", "word": "water", "pos": "n", "ipa": "/ˈwɔːtə/", "meaning_cn": "水", "example_en": "I drink water.", "example_cn": "我喝水。" }
+    ]
+  },
+  "places_directions": {
+    "id": "places_directions",
+    "kind": "flashcard",
+    "title": "Places & directions",
+    "title_cn": "地点与方向",
+    "css_class": "places",
+    "level": "pre-a1",
+    "cards": [
+      { "id": "behind_places_directions_prep", "word": "behind", "pos": "prep", "ipa": "/bɪˈhaɪnd/", "meaning_cn": "在……后面", "example_en": "The cat is behind the door.", "example_cn": "猫在门后面。" },
+      { "id": "between_places_directions_prep", "word": "between", "pos": "prep", "ipa": "/bɪˈtwiːn/", "meaning_cn": "在……之间", "example_en": "I sit between Ann and Ben.", "example_cn": "我坐在安和本之间。" },
+      { "id": "bookshop_places_directions_n", "word": "bookshop", "pos": "n", "ipa": "/ˈbʊkʃɒp/", "meaning_cn": "书店", "example_en": "I go to the bookshop.", "example_cn": "我去书店。" },
+      { "id": "end_places_directions_n", "word": "end", "pos": "n", "ipa": "/end/", "meaning_cn": "末端", "example_en": "This is the end.", "example_cn": "这是终点。" },
+      { "id": "here_places_directions_adv", "word": "here", "pos": "adv", "ipa": "/hɪə/", "meaning_cn": "这里", "example_en": "Come here!", "example_cn": "到这里来！" },
+      { "id": "in_places_directions_prep", "word": "in", "pos": "prep", "ipa": "/ɪn/", "meaning_cn": "在……里面", "example_en": "The apple is in the box.", "example_cn": "苹果在盒子里。" },
+      { "id": "in_front_of_places_directions_prep", "word": "in front of", "pos": "prep", "ipa": "/ɪn frʌnt ɒv/", "meaning_cn": "在……前面", "example_en": "I stand in front of the tree.", "example_cn": "我站在树前面。" },
+      { "id": "on_places_directions_prep", "word": "on", "pos": "prep", "ipa": "/ɒn/", "meaning_cn": "在……上面", "example_en": "The book is on the table.", "example_cn": "书在桌子上。" },
+      { "id": "park_places_directions_n", "word": "park", "pos": "n", "ipa": "/pɑːk/", "meaning_cn": "公园", "example_en": "I play in the park.", "example_cn": "我在公园里玩。" },
+      { "id": "playground_places_directions_n", "word": "playground", "pos": "n", "ipa": "/ˈpleɪɡraʊnd/", "meaning_cn": "操场", "example_en": "The dog is in the playground.", "example_cn": "狗在操场上。" },
+      { "id": "shop_places_directions_n", "word": "shop (US store)", "pos": "n", "ipa": "/ʃɒp/", "meaning_cn": "商店（美式英语用 store）", "example_en": "I go to the shop.", "example_cn": "我去商店。" },
+      { "id": "store_places_directions_n", "word": "store (UK shop)", "pos": "n", "ipa": "/stɔː/", "meaning_cn": "商店（英式英语用 shop）", "example_en": "The store is big.", "example_cn": "这家商店很大。" },
+      { "id": "street_places_directions_n", "word": "street", "pos": "n", "ipa": "/striːt/", "meaning_cn": "街道", "example_en": "I walk on the street.", "example_cn": "我走在街道上。" },
+      { "id": "there_places_directions_adv", "word": "there", "pos": "adv", "ipa": "/ðeə/", "meaning_cn": "那里", "example_en": "Go there!", "example_cn": "去那里！" },
+      { "id": "under_places_directions_prep", "word": "under", "pos": "prep", "ipa": "/ˈʌndə/", "meaning_cn": "在……下面", "example_en": "The ball is under the chair.", "example_cn": "球在椅子下面。" },
+      { "id": "zoo_places_directions_n", "word": "zoo", "pos": "n", "ipa": "/zuː/", "meaning_cn": "动物园", "example_en": "I see a tiger at the zoo.", "example_cn": "我在动物园看见一只老虎。" }
+    ]
+  },
+  "names": {
+    "id": "names",
+    "kind": "flashcard",
+    "title": "Names",
+    "title_cn": "名字",
+    "css_class": "names",
+    "level": "pre-a1",
+    "cards": [
+      { "id": "alex_names_n", "word": "Alex", "pos": "n", "ipa": "/ˈæleks/", "meaning_cn": "亚历克斯", "example_en": "Alex is my friend.", "example_cn": "亚历克斯是我的朋友。" },
+      { "id": "alice_names_n", "word": "Alice", "pos": "n", "ipa": "/ˈælɪs/", "meaning_cn": "爱丽丝", "example_en": "Alice likes cats.", "example_cn": "爱丽丝喜欢猫。" },
+      { "id": "ann_anna_names_n", "word": "Ann/Anna", "pos": "n", "ipa": "/æn/ /ˈænə/", "meaning_cn": "安/安娜", "example_en": "Ann is a girl.", "example_cn": "安是个女孩。" },
+      { "id": "ben_names_n", "word": "Ben", "pos": "n", "ipa": "/ben/", "meaning_cn": "本", "example_en": "Ben has a red ball.", "example_cn": "本有一个红色的球。" },
+      { "id": "bill_names_n", "word": "Bill", "pos": "n", "ipa": "/bɪl/", "meaning_cn": "比尔", "example_en": "Bill is here.", "example_cn": "比尔在这里。" },
+      { "id": "dan_names_n", "word": "Dan", "pos": "n", "ipa": "/dæn/", "meaning_cn": "丹", "example_en": "Dan can run.", "example_cn": "丹会跑步。" },
+      { "id": "eva_names_n", "word": "Eva", "pos": "n", "ipa": "/ˈiːvə/", "meaning_cn": "伊娃", "example_en": "Eva sees a shell.", "example_cn": "伊娃看见一个贝壳。" },
+      { "id": "grace_names_n", "word": "Grace", "pos": "n", "ipa": "/ɡreɪs/", "meaning_cn": "格蕾丝", "example_en": "Grace is at the park.", "example_cn": "格蕾丝在公园。" },
+      { "id": "hugo_names_n", "word": "Hugo", "pos": "n", "ipa": "/ˈhjuːɡəʊ/", "meaning_cn": "雨果", "example_en": "Hugo likes the sun.", "example_cn": "雨果喜欢太阳。" },
+      { "id": "jill_names_n", "word": "Jill", "pos": "n", "ipa": "/dʒɪl/", "meaning_cn": "吉尔", "example_en": "Jill is in the street.", "example_cn": "吉尔在街上。" },
+      { "id": "kim_names_n", "word": "Kim", "pos": "n", "ipa": "/kɪm/", "meaning_cn": "金", "example_en": "Kim has a book.", "example_cn": "金有一本书。" },
+      { "id": "lucy_names_n", "word": "Lucy", "pos": "n", "ipa": "/ˈluːsi/", "meaning_cn": "露西", "example_en": "Lucy is under the tree.", "example_cn": "露西在树下。" },
+      { "id": "mark_names_n", "word": "Mark", "pos": "n", "ipa": "/mɑːk/", "meaning_cn": "马克", "example_en": "Mark goes to the zoo.", "example_cn": "马克去动物园。" },
+      { "id": "matt_names_n", "word": "Matt", "pos": "n", "ipa": "/mæt/", "meaning_cn": "马特", "example_en": "Matt plays in the playground.", "example_cn": "马特在操场上玩。" },
+      { "id": "may_names_n", "word": "May", "pos": "n", "ipa": "/meɪ/", "meaning_cn": "梅", "example_en": "May is at the shop.", "example_cn": "梅在商店。" },
+      { "id": "nick_names_n", "word": "Nick", "pos": "n", "ipa": "/nɪk/", "meaning_cn": "尼克", "example_en": "Nick sees the sea.", "example_cn": "尼克看见了大海。" },
+      { "id": "pat_names_n", "word": "Pat", "pos": "n", "ipa": "/pæt/", "meaning_cn": "帕特", "example_en": "Pat sits between Ann and Ben.", "example_cn": "帕特坐在安和本之间。" },
+      { "id": "sam_names_n", "word": "Sam", "pos": "n", "ipa": "/sæm/", "meaning_cn": "萨姆", "example_en": "Sam likes the beach.", "example_cn": "萨姆喜欢海滩。" },
+      { "id": "sue_names_n", "word": "Sue", "pos": "n", "ipa": "/suː/", "meaning_cn": "苏", "example_en": "Sue is in front of the bookshop.", "example_cn": "苏在书店前面。" },
+      { "id": "tom_names_n", "word": "Tom", "pos": "n", "ipa": "/tɒm/", "meaning_cn": "汤姆", "example_en": "Tom drinks water.", "example_cn": "汤姆喝水。" }
+    ]
+  },
+  "time": {
+    "id": "time",
+    "kind": "flashcard",
+    "title": "Time",
+    "title_cn": "时间",
+    "css_class": "time",
+    "level": "pre-a1",
+    "cards": [
+      { "id": "afternoon_time_n", "word": "afternoon", "pos": "n", "ipa": "/ˌɑːftəˈnuːn/", "meaning_cn": "下午", "example_en": "I play in the afternoon.", "example_cn": "我下午玩。" },
+      { "id": "birthday_time_n", "word": "birthday", "pos": "n", "ipa": "/ˈbɜːθdeɪ/", "meaning_cn": "生日", "example_en": "Today is my birthday.", "example_cn": "今天是我的生日。" },
+      { "id": "clock_time_n", "word": "clock", "pos": "n", "ipa": "/klɒk/", "meaning_cn": "时钟", "example_en": "The clock is red.", "example_cn": "时钟是红色的。" },
+      { "id": "day_time_n", "word": "day", "pos": "n", "ipa": "/deɪ/", "meaning_cn": "白天", "example_en": "It is a sunny day.", "example_cn": "这是晴朗的一天。" },
+      { "id": "evening_time_n", "word": "evening", "pos": "n", "ipa": "/ˈiːvnɪŋ/", "meaning_cn": "晚上", "example_en": "I watch TV in the evening.", "example_cn": "我晚上看电视。" },
+      { "id": "in_time_prep", "word": "in", "pos": "prep", "ipa": "/ɪn/", "meaning_cn": "在……期间", "example_en": "I sleep in the morning.", "example_cn": "我早上睡觉。" },
+      { "id": "morning_time_n", "word": "morning", "pos": "n", "ipa": "/ˈmɔːnɪŋ/", "meaning_cn": "早上", "example_en": "I get up in the morning.", "example_cn": "我早上起床。" },
+      { "id": "night_time_n", "word": "night", "pos": "n", "ipa": "/naɪt/", "meaning_cn": "夜晚", "example_en": "I sleep at night.", "example_cn": "我晚上睡觉。" },
+      { "id": "today_time_n", "word": "today", "pos": "n", "ipa": "/təˈdeɪ/", "meaning_cn": "今天", "example_en": "Today is sunny.", "example_cn": "今天是晴天。" },
+      { "id": "watch_time_n", "word": "watch", "pos": "n", "ipa": "/wɒtʃ/", "meaning_cn": "手表", "example_en": "I have a watch.", "example_cn": "我有一块手表。" },
+      { "id": "year_time_n", "word": "year", "pos": "n", "ipa": "/jɪə/", "meaning_cn": "年", "example_en": "Happy New Year!", "example_cn": "新年快乐！" }
+    ]
+  }
+}
